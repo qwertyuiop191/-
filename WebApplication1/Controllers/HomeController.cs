@@ -10,6 +10,7 @@ namespace WebApplication1.Controllers
     {
         public ActionResult Index()
         {
+            //这是一个真实的仓库
             return View();
         }
 
